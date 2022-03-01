@@ -17,8 +17,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 #### Run the Backend
 
 ```jsx
-cd server
+cd backend
 npm run start
 ```
-Run the backend server on your system on [http://localhost:4000/app/signup](http://localhost:4000/app/signup)
 
+Run the backend server on your system on [http://localhost:5000/api](http://localhost:5000/app)
